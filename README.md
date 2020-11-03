@@ -1,7 +1,8 @@
 # Practice 6. Parallel Ports (GPIOs)
 
+
 ## Objectives
-he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
+he   student   will   become   familiar   with   the   basic instructions to configure and operate the Microcontroller input/output ports.
 
 ## Introduction
 
@@ -87,6 +88,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
-https://youtu.be/rZ4N3e19dj0
 
 ## Conclusion
+
+In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+

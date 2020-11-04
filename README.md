@@ -90,9 +90,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-En esta practica me consto un poco mas de trabajo llegar a la solucion ya que se tenia que interpretar el diagrama y comenzar, pero
-en la clase ya me quedo un poco mas claro el uso de algunas instrucciones y la estructura que tenemos que seguir para lograr realizar 
-las transiciones en la memoria y visualizarlo con el SFRs, me gustaria seguir practicando algun otro problema para tener un poco mas de dominio 
-en el programa, en el microcontrolador y en las operaciones correspondientes, asi como en el uso correcto deL TRISx y LATx, en esta practica 
-tambien se puso en practica el uso de delay y se pudo monitorear de forma correcta, me hubiera podido implementar la practica en el 
-programa proteous para que fuera un poco mas visible el funcionamiento de esta practica.
+En esta practica me consto un poco más de trabajo llegar a la solución ya que se tenia que interpretar el diagrama y comenzar, pero en la clase ya me quedo un poco más claro el uso de algunas instrucciones y la estructura que tenemos que seguir para lograr realizar las transiciones en la memoria y visualizarlo con el SFRs, me gastaría seguir practicando algún otro problema para tener un poco más de dominio en el programa, en el microcontrolador y en las operaciones correspondientes, asi como en el uso correcto del TRISx y LATx, en esta practica también se puso en práctica el uso de delay y se pudo monitorear de forma correcta, me hubiera podido implementar la practica en el programa proteous para que fuera un poco más visible el funcionamiento de esta practica.
